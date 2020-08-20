@@ -1,0 +1,42 @@
+C:\Users\C1E21\source\repos\Menagelec\Menagelec\bin\Debug\Menagelec.exe.config
+C:\Users\C1E21\source\repos\Menagelec\Menagelec\bin\Debug\Menagelec.exe
+C:\Users\C1E21\source\repos\Menagelec\Menagelec\bin\Debug\Menagelec.pdb
+C:\Users\C1E21\source\repos\Menagelec\Menagelec\bin\Debug\MySql.Data.dll
+C:\Users\C1E21\source\repos\Menagelec\Menagelec\bin\Debug\Google.Protobuf.dll
+C:\Users\C1E21\source\repos\Menagelec\Menagelec\bin\Debug\Renci.SshNet.dll
+C:\Users\C1E21\source\repos\Menagelec\Menagelec\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\C1E21\source\repos\Menagelec\Menagelec\bin\Debug\MySql.Data.xml
+C:\Users\C1E21\source\repos\Menagelec\Menagelec\obj\Debug\Menagelec.csprojAssemblyReference.cache
+C:\Users\C1E21\source\repos\Menagelec\Menagelec\obj\Debug\Menagelec.Form1.resources
+C:\Users\C1E21\source\repos\Menagelec\Menagelec\obj\Debug\Menagelec.GestionCommande.resources
+C:\Users\C1E21\source\repos\Menagelec\Menagelec\obj\Debug\Menagelec.Menu.resources
+C:\Users\C1E21\source\repos\Menagelec\Menagelec\obj\Debug\Menagelec.Properties.Resources.resources
+C:\Users\C1E21\source\repos\Menagelec\Menagelec\obj\Debug\Menagelec.csproj.GenerateResource.cache
+C:\Users\C1E21\source\repos\Menagelec\Menagelec\obj\Debug\Menagelec.csproj.CoreCompileInputs.cache
+C:\Users\C1E21\source\repos\Menagelec\Menagelec\obj\Debug\Menagelec.csproj.CopyComplete
+C:\Users\C1E21\source\repos\Menagelec\Menagelec\obj\Debug\Menagelec.exe
+C:\Users\C1E21\source\repos\Menagelec\Menagelec\obj\Debug\Menagelec.pdb
+C:\Users\krako\source\repos\Menagelec\Menagelec\bin\Debug\Menagelec.exe.config
+C:\Users\krako\source\repos\Menagelec\Menagelec\bin\Debug\Menagelec.exe
+C:\Users\krako\source\repos\Menagelec\Menagelec\bin\Debug\Menagelec.pdb
+C:\Users\krako\source\repos\Menagelec\Menagelec\bin\Debug\Google.Protobuf.dll
+C:\Users\krako\source\repos\Menagelec\Menagelec\bin\Debug\Renci.SshNet.dll
+C:\Users\krako\source\repos\Menagelec\Menagelec\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\krako\source\repos\Menagelec\Menagelec\bin\Debug\MySql.Data.xml
+C:\Users\krako\source\repos\Menagelec\Menagelec\obj\Debug\Menagelec.csprojAssemblyReference.cache
+C:\Users\krako\source\repos\Menagelec\Menagelec\obj\Debug\Menagelec.Form1.resources
+C:\Users\krako\source\repos\Menagelec\Menagelec\obj\Debug\Menagelec.GestionCommande.resources
+C:\Users\krako\source\repos\Menagelec\Menagelec\obj\Debug\Menagelec.Menu.resources
+C:\Users\krako\source\repos\Menagelec\Menagelec\obj\Debug\Menagelec.Properties.Resources.resources
+C:\Users\krako\source\repos\Menagelec\Menagelec\obj\Debug\Menagelec.csproj.GenerateResource.cache
+C:\Users\krako\source\repos\Menagelec\Menagelec\obj\Debug\Menagelec.csproj.CopyComplete
+C:\Users\krako\source\repos\Menagelec\Menagelec\obj\Debug\Menagelec.exe
+C:\Users\krako\source\repos\Menagelec\Menagelec\obj\Debug\Menagelec.pdb
+C:\Users\krako\source\repos\Menagelec\Menagelec\bin\Debug\itextsharp.dll
+C:\Users\krako\source\repos\Menagelec\Menagelec\bin\Debug\itextsharp.pdfa.dll
+C:\Users\krako\source\repos\Menagelec\Menagelec\bin\Debug\itextsharp.xtra.dll
+C:\Users\krako\source\repos\Menagelec\Menagelec\bin\Debug\itextsharp.xml
+C:\Users\krako\source\repos\Menagelec\Menagelec\obj\Debug\Menagelec.FicheProduit.resources
+C:\Users\Mathias PC\Desktop\Menagelec\Menagelec\obj\Debug\Menagelec.csprojAssemblyReference.cache
+C:\Users\Mathias PC\Desktop\Menagelec\Menagelec\obj\Debug\Menagelec.exe
+C:\Users\Mathias PC\Desktop\Menagelec\Menagelec\obj\Debug\Menagelec.pdb
